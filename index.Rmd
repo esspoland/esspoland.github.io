@@ -1,0 +1,21 @@
+---
+title: "European Social Survey in Poland"
+image: "https://ess.ifispan.pl/wp-content/themes/ess/images/logo.svg"
+links:
+  - label: Polish ESS
+    url: "https://ess.ifispan.pl/"
+  - label: Main ESS
+    url: "https://europeansocialsurvey.org/"
+  - label: Ph.D. workshop materials 2025
+    url: "https://drive.google.com/drive/folders/1RY13bDCogSpZ-w-w5vNpFyuhIB-jVuv3"
+output:
+  postcards::solana
+---
+
+## About
+
+The **European Social Survey** (ESS) is one of the largest and most significant research projects in the field of social sciences in Europe. It was initiated by the Expert Committee of the European Science Foundation.
+
+The primary objective of the ESS is to monitor social changes occurring across Europe, including attitudes toward key societal issues, shifts in value systems, and behavioral trends.
+
+The selection of topics addressed in the survey is determined by the General Assembly of the participating countries, in which Poland is also represented.
